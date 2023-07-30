@@ -600,7 +600,7 @@ box-shadow: 3px 6px 30px 5px rgba(0, 0, 0, 0.58);
 
   .newSeason{
     flex-direction: column;
-    margin-top: 150px;
+    margin-top: 15px;
   }
   .nsImg{
     object-fit: cover;
@@ -627,6 +627,10 @@ box-shadow: 3px 6px 30px 5px rgba(0, 0, 0, 0.58);
     align-items: center;
     background-color: whitesmoke;
     color: rgb(104, 102, 102);
+    }
+    
+    .payment{
+      width: 300px;
   }
 }
 
